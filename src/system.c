@@ -4,8 +4,8 @@
 #include <stdlib.h>
 #include <string.h>
 #ifdef _WIN32
-#include <Psapi.h>
 #include <Windows.h>
+#include <psapi.h>
 #else
 #include <sys/resource.h>
 #include <sys/types.h>

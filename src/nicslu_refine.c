@@ -2,6 +2,7 @@
 /*last modified: june 7, 2013*/
 /*author: Chen, Xiaoming*/
 
+#include <float.h>
 #include "math.h"
 #include "nicslu.h"
 #include "nicslu_internal.h"
