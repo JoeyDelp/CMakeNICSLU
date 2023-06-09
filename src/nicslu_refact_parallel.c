@@ -3,7 +3,9 @@
 /*last modified: june 11, 2013*/
 /*author: Chen, Xiaoming*/
 
-#include "math.h"
+#include <math.h>
+#include <float.h>
+#include "nicslu_defines.h"
 #include "nicslu.h"
 #include "nicslu_internal.h"
 #include "timer_c.h"

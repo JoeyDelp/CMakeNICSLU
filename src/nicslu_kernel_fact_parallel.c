@@ -7,7 +7,9 @@
 /*uid     uid     udat    lid     ldat     */
 /*pruned  unpruned*/
 
-#include "math.h"
+#include <math.h>
+#include <float.h>
+#include "nicslu_defines.h"
 #include "nicslu.h"
 #include "nicslu_internal.h"
 #include "thread.h"

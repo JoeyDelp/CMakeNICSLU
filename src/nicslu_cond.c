@@ -2,7 +2,9 @@
 /*this function is modified from the corresponding function in KLU package*/
 /* http://www.cise.ufl.edu/research/sparse/klu/ */
 
-#include "math.h"
+#include <math.h>
+#include <float.h>
+#include "nicslu_defines.h"
 #include "nicslu.h"
 #include "nicslu_internal.h"
 

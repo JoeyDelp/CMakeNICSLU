@@ -2,8 +2,9 @@
 /*it's modified from mc64ad.c in SuperLU_DIST package*/
 /* http://crd.lbl.gov/~xiaoye/SuperLU/ */
 
+#include <math.h>
 #include <float.h>
-#include "math.h"
+#include "nicslu_defines.h"
 #include "nicslu.h"
 #include "nicslu_internal.h"
 

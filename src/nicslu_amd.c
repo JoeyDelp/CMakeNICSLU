@@ -6,7 +6,9 @@
 
 #include <limits.h>
 
-#include "math.h"
+#include <math.h>
+#include <float.h>
+#include "nicslu_defines.h"
 #include "nicslu.h"
 #include "nicslu_internal.h"
 
