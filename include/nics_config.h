@@ -18,12 +18,8 @@
 #endif
 #endif
 
-#ifdef NICS_INT64
 #ifdef X64__
 #define INT64__
-#else
-#error NICS_INT64 IS ONLY USED FOR 64-BIT ARCHITECTURE!
-#endif
 #endif
 
 /*return code*/
