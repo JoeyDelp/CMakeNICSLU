@@ -18,8 +18,10 @@
 #endif
 #endif
 
+#ifdef NICS_INT64
 #ifdef X64__
 #define INT64__
+#endif
 #endif
 
 /*return code*/
